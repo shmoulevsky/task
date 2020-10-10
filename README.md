@@ -4,3 +4,5 @@ Technologies:
 - laravel 8
 - jquery
 - bootstrap 4
+
+Link to app: http://task.widev.ru/
